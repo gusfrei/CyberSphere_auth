@@ -1,6 +1,7 @@
-module.exports = 
-{
-    //"URI": "mongodb://localhost/book_store"
-    "URI": "mongodb://localhost:27017/business_list",
-    "Secret": 'SomeSecret'
-}
+module.exports = {
+    //local MongoDB deployment ->
+      "URI": "mongodb+srv://cybersphere:cybersphere123@cluster0.tm0x16r.mongodb.net/",
+      "Secret": 'SomeSecret'
+    }
+
+  
